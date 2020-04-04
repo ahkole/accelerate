@@ -336,6 +336,8 @@ Library
         Data.Array.Accelerate.Product
         Data.Array.Accelerate.Smart
         Data.Array.Accelerate.Trafo
+        Data.Array.Accelerate.Trafo.Sharing
+        Data.Array.Accelerate.Trafo.Substitution
         Data.Array.Accelerate.Type
 
         -- For testing
@@ -381,10 +383,8 @@ Library
         Data.Array.Accelerate.Trafo.Base
         Data.Array.Accelerate.Trafo.Config
         Data.Array.Accelerate.Trafo.Fusion
-        Data.Array.Accelerate.Trafo.Sharing
         Data.Array.Accelerate.Trafo.Shrink
         Data.Array.Accelerate.Trafo.Simplify
-        Data.Array.Accelerate.Trafo.Substitution
         Data.Atomic
 
         -- Data.Array.Accelerate.Array.Lifted
